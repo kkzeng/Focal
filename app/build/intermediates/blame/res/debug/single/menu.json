@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_container_opening_screen.xml",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\menu\\menu_container_opening_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459746850384",
+    "firebase_url": "https://muse-3fe34.firebaseio.com",
+    "project_id": "muse-3fe34",
+    "storage_bucket": "muse-3fe34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459746850384:android:2cac7cfa4841a64e",
+        "android_client_info": {
+          "package_name": "com.choosemuse.example.libmuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459746850384-klpq301456rj9mbgnk4b618b06sr96ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxD8M7zm73dM9wttr8OEMAQR5iYNzG1mg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

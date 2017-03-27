@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_c26bda26c60324ac2b62bd5af5814d125d433dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_2d50a9dd0ae69942fe96aa29147d74edae45eabf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_853bffe30274ac33b1c9f67dd14b16cbcc17af41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_3b2bb5713871e075ef23985d8df4a2ea27b1fb63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_11e4d1ca4a2c61e184ce2e0fb2b4bf809117c336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.jjoe64-graphview-4.2.1_59c0f312c62679a557f4e7b877cab0697617640e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_c35da5f933849933eac177f147f2f8eb82e79d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_7e4df3ed47c4a2f8b7a71ef3420b7218140dc167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_8371a99f7c214245f8f2bff33df90a78f571bbea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e756fe8826070e7f2a88030bf3dcfdf68a625905">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuse_android_ff536d3ab52bb7a332a4e6da1a143a0f81e4eb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_de4ea84b74d2cca84acf8b1342f48d189970bcc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_82ac5d8281c2219b2e3bc4a89416c1748cc3bb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ba36bcc76d4337824c171c4b189dddf305545b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_1110870a80573fceceaa2cffec5a0e089edf2837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_394a473258adf460936b7357e85cb9e548f43611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.4.0_2d85c8e9e53b9d592308b31f8417b9e10f6c58ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_3987bb7487744670f83ba995cc28af1d79fff9b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_93b87b6f1e01649a63704b575e3fc6847edc0bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_85b41ef2ca8bfb8d458e4ce19f6643fae17ad6a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_5429cf430a678659c41dc120dd4a45bd605f2ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_1582f4f083559156e3f95d5c5b5f3da2a458db10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Andy\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_3f02998039b473648c6dd99cccc275930b599d76.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_first.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-mdpi\\bg_first.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rectangle.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-mdpi\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bgn_button.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-mdpi\\bgn_button.png"
+    }
+]

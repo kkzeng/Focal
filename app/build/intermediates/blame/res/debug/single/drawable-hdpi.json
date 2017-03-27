@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bgn_button.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-hdpi\\bgn_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_first.png",
+        "source": "C:\\Users\\Andy\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\drawable-hdpi\\bg_first.png"
+    }
+]
